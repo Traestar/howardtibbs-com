@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Howard Tibbs Portfolio</title>
+    <link href="http://github.com/Traestar/howardtibbs-com/feed.xml" rel="self" />
+    <link href="http://github.com/Traestar/howardtibbs-com" />
+    <updated>2019-04-06T14:28:26-04:00</updated>
+    <author>
+        <name>Howard Tibbs</name>
+    </author>
+    <id>http://github.com/Traestar/howardtibbs-com</id>
+
+    <entry>
+        <title>This is a test post</title>
+        <author>
+            <name>Howard Tibbs</name>
+        </author>
+        <link href="http://github.com/Traestar/howardtibbs-com/this-is-a-test-post.html"/>
+        <id>http://github.com/Traestar/howardtibbs-com/this-is-a-test-post.html</id>
+
+        <updated>2019-04-06T13:14:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello This is a test post. Will be adding amazing content very soon.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello This is a test post.</p>
+<p>Will be adding amazing content very soon.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

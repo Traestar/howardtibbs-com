@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Howard Tibbs Portfolio",
+    "description": "",
+    "home_page_url": "http://github.com/Traestar/howardtibbs-com",
+    "feed_url": "http://github.com/Traestar/howardtibbs-com/feed.json",
+    "user_comment": "",
+    "icon": "http://github.com/Traestar/howardtibbs-com/media/website/HLTLogov1_Final.png",
+    "author": {
+        "name": "Howard Tibbs"
+    },
+    "items": [
+        {
+            "id": "http://github.com/Traestar/howardtibbs-com/this-is-a-test-post.html",
+            "url": "http://github.com/Traestar/howardtibbs-com/this-is-a-test-post.html",
+            "title": "This is a test post",
+            "summary": "Hello This is a test post. Will be adding amazing content very soon.",
+            "content_html": "<p>Hello This is a test post.</p>\n<p>Will be adding amazing content very soon.</p>",
+            "author": {
+                "name": "Howard Tibbs"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-06T13:14:45-04:00",
+            "date_modified": "2019-04-06T13:14:45-04:00"
+        }
+    ]
+}
