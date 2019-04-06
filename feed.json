@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Howard Tibbs Portfolio",
     "description": "",
-    "home_page_url": "https://traestar.github.com/howardtibbs-com",
-    "feed_url": "https://traestar.github.com/howardtibbs-com/feed.json",
+    "home_page_url": "https://traestar.github.io/howardtibbs-com",
+    "feed_url": "https://traestar.github.io/howardtibbs-com/feed.json",
     "user_comment": "",
-    "icon": "https://traestar.github.com/howardtibbs-com/media/website/HLTLogov1_Final.png",
+    "icon": "https://traestar.github.io/howardtibbs-com/media/website/HLTLogov1_Final.png",
     "author": {
         "name": "Howard Tibbs"
     },
     "items": [
         {
-            "id": "https://traestar.github.com/howardtibbs-com/this-is-a-test-post.html",
-            "url": "https://traestar.github.com/howardtibbs-com/this-is-a-test-post.html",
+            "id": "https://traestar.github.io/howardtibbs-com/this-is-a-test-post.html",
+            "url": "https://traestar.github.io/howardtibbs-com/this-is-a-test-post.html",
             "title": "This is a test post",
             "summary": "Hello This is a test post. Will be adding amazing content very soon.",
             "content_html": "<p>Hello This is a test post.</p>\n<p>Will be adding amazing content very soon.</p>",
